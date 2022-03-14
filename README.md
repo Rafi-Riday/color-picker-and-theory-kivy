@@ -33,5 +33,5 @@
   * OpenGL 2.0 Support
 ## Download for Android
 
-## My next aim was to add a color detector using android camera, but, then I came to know that Kivy is something like newer python library and it has many problems using android camera, kivy is easier to learn and I spend just 3 weeks learning kivy and making this 3.5k line app, but turned to PyQt5 for betterment ঁ_ঁ
-## Another problem is, Kivy is something like being replaced by KivyMd and has less community support.
+#### My next aim was to add a color detector using android camera, but, then I came to know that Kivy is something like newer python library and it has many problems using android camera, kivy is easier to learn and I spend just 3 weeks learning kivy and making this 3.5k line app, but turned to PyQt5 for betterment ঁ_ঁ
+#### Another problem is, Kivy is something like being replaced by KivyMd and has less community support.
