@@ -23,7 +23,7 @@
 ![5.png](/img/5.png)
 #### Language Preference
 ![6.png](/img/6.png)
-#### Theory
+#### Theory (Must login first)
 ![7.png](/img/7.png)
 #### About
 ![8.png](/img/8.png)
