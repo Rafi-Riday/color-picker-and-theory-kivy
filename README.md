@@ -29,9 +29,11 @@
 ![8.png](/img/8.png)
 
 ## Download for Windows
-* Requirements :
-  * OpenGL 2.0 Support
+* [color-picker-1.5.5-setup.exe](https://drive.google.com/file/d/1957fTNeZaW0tdie-kGn8lFJBBwDMgMO7/view?usp=sharing)
+  * Requirements :
+    * OpenGL 2.0 Support
 ## Download for Android
+* [color-picker-1.5.5-setup.apk](https://drive.google.com/file/d/1MVqXs4BCKJmE1BC-b1sYizjFLvSgCWjI/view?usp=sharing)
 
 #### My next aim was to add a color detector using android camera, but, then I came to know that Kivy is something like newer python library and it has many problems using android camera, kivy is easier to learn and I spend just 3 weeks learning kivy and making this 3.5k line app, but turned to PyQt5 for betterment  ঁ-ঁ
 #### Another problem is, Kivy is something like being replaced by KivyMd and has less community support.
